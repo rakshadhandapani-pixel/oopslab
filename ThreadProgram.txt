@@ -1,0 +1,15 @@
+Main Thread and Generated Number is81
+New Thread 81is ODD and Cube of81is:531441
+-----------------------
+Main Thread and Generated Number is56
+New Thread0 is EVEN and Square of 0is:0
+-----------------------
+Main Thread and Generated Number is52
+New Thread0 is EVEN and Square of 0is:0
+-----------------------
+Main Thread and Generated Number is59
+New Thread 59is ODD and Cube of59is:205379
+-----------------------
+Main Thread and Generated Number is12
+New Thread0 is EVEN and Square of 0is:0
+-----------------------
