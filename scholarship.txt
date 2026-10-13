@@ -1,0 +1,40 @@
+Enter number of students: 2
+
+Enter details of Student 1
+Enter Name: Ramya
+Enter Roll Number: 85
+Enter Marks (%): 88.5
+Enter Attendance (%): 92
+Enter Annual Income (Rs): 150000
+
+Enter details of Student 2
+Enter Name: Akash
+Enter Roll Number: 86
+Enter Marks (%): 60
+Enter Attendance (%): 70
+Enter Annual Income (Rs): 400000
+
+===== SCHOLARSHIP ELIGIBILITY REPORT =====
+
+----- Student Details -----
+Name              : Ramya
+Roll Number       : 85
+Marks             : 88.5%
+Attendance        : 92.0%
+Annual Income     : Rs. 150000.00
+Scholarship Status: Eligible - Full Scholarship
+Remarks           : All criteria satisfied
+
+----- Student Details -----
+Name              : Akash
+Roll Number       : 86
+Marks             : 60.0%
+Attendance        : 70.0%
+Annual Income     : Rs. 400000.00
+Scholarship Status: Not Eligible
+Remarks           : Marks below 75%; Attendance below 80%; Income above Rs. 3,00,000;
+
+----- Summary -----
+Total Students : 2
+Eligible       : 1
+Not Eligible   : 1
